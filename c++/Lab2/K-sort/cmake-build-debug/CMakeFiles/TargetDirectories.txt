@@ -1,0 +1,3 @@
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/A&DS/c++/Lab2/K-sort/cmake-build-debug/CMakeFiles/K_sort.dir
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/A&DS/c++/Lab2/K-sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/A&DS/c++/Lab2/K-sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

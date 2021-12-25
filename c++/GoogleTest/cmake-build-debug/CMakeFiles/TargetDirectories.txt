@@ -1,0 +1,3 @@
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/A&DS/c++/GoogleTest/cmake-build-debug/CMakeFiles/GoogleTest.dir
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/A&DS/c++/GoogleTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/A&DS/c++/GoogleTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

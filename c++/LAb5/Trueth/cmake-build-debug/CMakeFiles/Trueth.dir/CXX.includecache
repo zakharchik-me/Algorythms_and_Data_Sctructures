@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Anton Zakharov/Desktop/Dan/Study/Practics/A&DS/c++/LAb5/Trueth/main.cpp
+fstream
+-
+vector
+-
+
